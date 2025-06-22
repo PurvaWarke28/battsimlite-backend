@@ -2,6 +2,6 @@ fastapi
 uvicorn
 pybamm==0.2.4.post3
 jax==0.4.23
-jaxlib>=0.4.23,<0.5
+jaxlib==0.4.23
 numpy
 
