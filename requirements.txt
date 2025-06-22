@@ -1,6 +1,6 @@
 fastapi
 uvicorn
 pybamm
-pydantic
-python-multipart
+jax
+jaxlib
 numpy
