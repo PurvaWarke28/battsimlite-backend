@@ -1,7 +1,6 @@
 fastapi
 uvicorn
-pybamm==0.2.4.post3
-jax==0.4.23
-jaxlib==0.4.23
-numpy
-
+numpy==1.24.4
+pybamm==23.9
+jax==0.4.14
+jaxlib==0.4.14
